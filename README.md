@@ -1,6 +1,6 @@
 # react-weather-app
 
-Simple Weather App built using React and free Weather API. 
+Simple Weather App built using React and free Weather API. Misspelled enteries will default to location of Toronto.
 
 [Link To App](https://react-weather-app-snowy.vercel.app/)
 
