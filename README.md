@@ -1,4 +1,4 @@
-# react-weather-app
+# React Weather App
 
 Simple Weather App built using React, Axios and free Weather API. Misspelled enteries will default to location of Toronto.
 
