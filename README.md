@@ -2,7 +2,7 @@
 
 Simple Weather App built using React, Axios and free Weather API. Misspelled enteries will default to location of Toronto.
 
-[Link To App](https://react-weather-app-snowy.vercel.app/)
+[Link To App](https://trusting-jepsen-074adb.netlify.app/)
 
 
 ## Available Scripts
