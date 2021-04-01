@@ -4,7 +4,6 @@ Simple Weather App built using React, Axios and free Weather API. Misspelled ent
 
 [Link To App](https://trusting-jepsen-074adb.netlify.app/)
 
-![image](https://vishnurupan.com/static/media/weather2.311546e5.jfif)
 
 ## Available Scripts
 
